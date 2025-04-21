@@ -3,6 +3,9 @@
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rpardini/docker-registry-proxy/tags.yaml?branch=master&label=last%20tagged%20release)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/rpardini/docker-registry-proxy?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/rpardini/docker-registry-proxy)
+
+Fork that builds linux/arm/v6 image
+
 ## TL,DR
 
 A caching proxy for Docker; allows centralised management of (multiple) registries and their authentication; caches images from *any* registry.
