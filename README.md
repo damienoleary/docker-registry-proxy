@@ -402,3 +402,4 @@ Yeah. Docker Inc should do it. So should NPM, Inc. Wonder why they don't. 😼
 - [ ] Test and make auth work with quay.io, unfortunately I don't have access to it (_hint, hint, quay_)
 - [x] Hide the mitmproxy building code under a Docker build ARG.
 - [ ] "Developer Office" proxy scenario, where many developers on a fast LAN share a proxy for bandwidth and speed savings (already works for pulls, but messes up pushes, which developers tend to use a lot)
+
